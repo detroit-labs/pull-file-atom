@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Pull File",
+        "command": "pull-file-atom:pull"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Pull File",
+          "submenu": [
+            {
+              "label": "Pull File",
+              "command": "pull-file-atom:pull"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
