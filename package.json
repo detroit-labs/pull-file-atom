@@ -16,5 +16,10 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {},
-  "configSchema": {}
+  "configSchema": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
 }
