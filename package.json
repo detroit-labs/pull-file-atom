@@ -1,5 +1,5 @@
 {
-  "name": "pull-file-atom",
+  "name": "pull-file",
   "main": "./lib/index",
   "version": "1.0.0",
   "description": "A port of the pull file extension to atom",
@@ -8,7 +8,7 @@
     "File"
   ],
   "activationCommands": {
-    "atom-workspace": "pull-file-atom:pull"
+    "atom-workspace": "pull-file:pull"
   },
   "repository": "https://github.com/shawnmallon/pull-file-atom",
   "license": "MIT",

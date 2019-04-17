@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Pull File",
-        "command": "pull-file-atom:pull"
+        "command": "pull-file:pull"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Pull File",
-              "command": "pull-file-atom:pull"
+              "command": "pull-file:pull"
             }
           ]
         }
