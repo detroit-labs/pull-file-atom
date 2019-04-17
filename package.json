@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "pull-file:pull"
   },
-  "repository": "https://github.com/shawnmallon/pull-file-atom",
+  "repository": "https://github.com/detroit-labs/pull-file-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
