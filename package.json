@@ -1,7 +1,7 @@
 {
   "name": "pull-file",
   "main": "./lib/index",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A port of the pull file extension to atom",
   "keywords": [
     "Copy",
